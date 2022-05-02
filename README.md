@@ -52,9 +52,10 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 
 
-## Deploy to Heroku
+## 🖇 Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=c3ViaW5wcy9WQ1BsYXllckJvdCBtYWlu)
+<h4>Click the button below to deploy Winamp on Heroku!</h4>    
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Iregullar/VCPlayerBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 ## Deploy to Railway
 <p><a href=https://github.com/Iregullar/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
